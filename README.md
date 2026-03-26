@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**sandrixss/sandrixss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sandris Borkovskis**, a student at **Daugavpils University**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+* 🎓 Studying at Daugavpils University
+* 💻 Learning programming
+* 🚀 Focused on improving my coding skills
+* 📚 Currently learning: **C# and C++**
+
+---
+
+### 🛠 Tech Stack
+
+* **Languages:** C#, C++
+* **Tools:** Git, GitHub
+* **IDE:** Visual Studio, Visual Studio Code, Code::Blocks
+* **OS:** Windows
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sandrixss\&show_icons=true)
+
+---
+
+### 📫 Contact
+
+* Telegram: https://t.me/YOUR_USERNAME
+* Email: [your@email.com](mailto:your@email.com)
+
+---
+
+### ⚡ About this profile
+
+This repository shows my progress and learning journey in C# and C++.

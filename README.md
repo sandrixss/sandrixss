@@ -30,8 +30,8 @@ I'm **Sandris Borkovskis**, a student at **Daugavpils University**.
 
 ### 📫 Contact
 
-* Telegram: https://t.me/YOUR_USERNAME
-* Email: [your@email.com](mailto:your@email.com)
+
+* Email: [sandriska72@gmail.com]
 
 ---
 
